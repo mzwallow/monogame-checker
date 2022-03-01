@@ -1,3 +1,0 @@
-Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"/home/mzwallow/Development/computer-game-programming/Checker/Content/Chip.png","/home/mzwallow/Development/computer-game-programming/Checker/Content/bin/DesktopGL/Content/Chip.xnb","TextureProcessor","Texture2DContent",1594,22585,0.2299045
-"/home/mzwallow/Development/computer-game-programming/Checker/Content/GameText.spritefont","/home/mzwallow/Development/computer-game-programming/Checker/Content/bin/DesktopGL/Content/GameText.xnb","FontDescriptionProcessor","SpriteFontContent",2017,21538,0.1833535
